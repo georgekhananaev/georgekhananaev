@@ -14,8 +14,8 @@
 </p>
 
 <p align='center'><br>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fixitpanda&theme=blue-green" height="220"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=fixitpanda&show_icons=true&count_private=true&theme=dark" height="220"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgekhananaev&theme=blue-green" height="220"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=georgekhananaev&show_icons=true&count_private=true&theme=dark" height="220"></a>
 </p>
 
 <p align='center'>
