@@ -41,6 +41,16 @@
   <img src="https://img.shields.io/badge/Containers-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
+<p align='center'>
+  💻 Personal Firewall Server<br/><br/>
+  <img src="https://img.shields.io/badge/proxmox-%23E57000.svg?&style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intel%20Celeron_12th_J6412-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/-pfSense-%23212121?style=for-the-badge&logo=pfsense&logoColor=white" />
+  <img src="https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white" />
+  <img src="https://img.shields.io/badge/Containers-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
 
 <br>
 <details align='center'>
