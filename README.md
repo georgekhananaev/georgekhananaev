@@ -1,6 +1,6 @@
 
 <p align='center' href="https://github.com/georgekhananaev">  
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=2000&pause=3000&color=062174FF&center=true&multiline=true&width=840&height=120&lines=Hi+there+👋;I'm+George+Khananaev.;Python Full Stack Developer+With+3+Years+of+Experience.;Specializing+With+Web+Applications+%7C+Bots+%7C+Micro+Services+%7C+Data+Processing+%7C+More..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=2000&pause=3000&color=062174FF&center=true&multiline=true&width=840&height=120&lines=Hi+there+👋;I'm+George+Khananaev.;Python Full Stack Developer+With+3+Years+of+Experience.;Specializing+on+Web+Applications+%7C+Bots+%7C+Micro+Services+%7C+Data+Processing+%7C+More..." alt="Typing SVG" />
 </p>
 
 
