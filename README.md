@@ -9,13 +9,10 @@
 
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgekhananaev&theme=blue-green" height="220"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=georgekhananaev&show_icons=true&count_private=true&theme=dark" height="220"></a><br>
-  
-  
-  
- 
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgekhananaev&theme=dark" height="220"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=georgekhananaev&theme=dark" height="220"></a><br>
 </p>
+
 <p align='center'>  
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
