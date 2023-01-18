@@ -9,8 +9,8 @@
 
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgekhananaev&theme=dark" height="220"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=georgekhananaev&theme=dark" height="220"></a><br>
+  <a href="#"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=georgekhananaev&theme=dark" height="220"></a>
+  <a href="#"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=georgekhananaev&theme=dark" height="220"></a><br>
 </p>
 
 <p align='center'>  
