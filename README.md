@@ -62,7 +62,6 @@ Hey there! 👋 I'm **George Khhananaev**, a Python Full Stack Developer with ov
   <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://visitor-badge.glitch.me/badge?page_id=georgekhananaev.visitor-badge" />
 </p>
 
 
