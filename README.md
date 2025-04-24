@@ -128,8 +128,5 @@ If this sounds like someone you'd want to work with or chat with over coffee, le
 <a href="https://www.linkedin.com/in/georgekhananaev/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:george.khananaev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fgeorgekhananaev"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgeorgekhananaev&countColor=%23263759" /></a>
