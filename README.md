@@ -18,8 +18,8 @@ Hey there! 👋 I'm **George Khhananaev**, a Python Full Stack Developer with ov
 
 <p align='center'>
   <a href="#"><img src="https://george.khananaev.com/github-stats/c/tvq1k9pjB5uBihcYxkAWixstMyQDQciVUiZ08gzWC4Q/langs?layout=donut"></a><br>
-  <a href="#"><img src="https://george.khananaev.com/github-stats/c/tvq1k9pjB5uBihcYxkAWixstMyQDQciVUiZ08gzWC4Q/stats" height="180"></a>
-  <a href="#"><img src="https://george.khananaev.com/github-stats/c/tvq1k9pjB5uBihcYxkAWixstMyQDQciVUiZ08gzWC4Q/repos" height="180"></a>
+  <a href="#"><img src="https://george.khananaev.com/github-stats/c/tvq1k9pjB5uBihcYxkAWixstMyQDQciVUiZ08gzWC4Q/stats" height="230"></a>
+  <a href="#"><img src="https://george.khananaev.com/github-stats/c/tvq1k9pjB5uBihcYxkAWixstMyQDQciVUiZ08gzWC4Q/repos" height="230"></a>
 </p>
 
 <p align='center'>  
