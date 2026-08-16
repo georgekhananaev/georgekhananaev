@@ -17,8 +17,9 @@ Hey there! 👋 I'm **George Khhananaev**, a Python Full Stack Developer with ov
 ---
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=georgekhananaev&theme=dark" height="220"></a>
-  <a href="#"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=georgekhananaev&theme=dark" height="220"></a><br>
+  <a href="#"><img src="https://george.khananaev.com/github-stats/c/tvq1k9pjB5uBihcYxkAWixstMyQDQciVUiZ08gzWC4Q/langs?layout=donut"></a><br>
+  <a href="#"><img src="https://george.khananaev.com/github-stats/c/tvq1k9pjB5uBihcYxkAWixstMyQDQciVUiZ08gzWC4Q/stats" height="180"></a>
+  <a href="#"><img src="https://george.khananaev.com/github-stats/c/tvq1k9pjB5uBihcYxkAWixstMyQDQciVUiZ08gzWC4Q/repos" height="180"></a>
 </p>
 
 <p align='center'>  
