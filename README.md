@@ -2,7 +2,7 @@
 
 **Software Engineering · AI Integration · Automation · Infrastructure**
 
-I lead development and IT infrastructure, and I still write a lot of the code myself. I build business applications, API integrations and AI workflows, and take them from the first design decision into daily operations. On the side I make open-source tools and native Mac apps.
+As Head of Development & IT Infrastructure, I still write a lot of the code myself. I build business applications, API integrations and AI workflows, and take them from the first design decision into daily operations. On the side I make open-source tools and native Mac apps.
 
 [Website](https://george.khananaev.com) · [LinkedIn](https://www.linkedin.com/in/georgekhananaev/)
 
